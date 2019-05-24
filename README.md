@@ -10,14 +10,14 @@ Let's make TTS/STT in Russian (and more) as open and available as CV models.
 
 
 **Table of contents**
-  - [Downloads](https://github.com/snakers4/open_stt/#downloads)
-    - [Links](https://github.com/snakers4/open_stt/#links)
-    - [Download-instructions](https://github.com/snakers4/open_stt/#download-instructions)
-    - [End-to-end download scripts](https://github.com/snakers4/open_stt/#end-to-end-download-scripts)
-  - [Annotation methodology](https://github.com/snakers4/open_stt/#annotation-methodology)
-  - [Contacts](https://github.com/snakers4/open_stt/#contacts)
-  - [License](https://github.com/snakers4/open_stt/#license)
-  - [Donations](https://github.com/snakers4/open_stt/#donations)
+  - [Downloads](https://github.com/snakers4/open_tts/#downloads)
+    - [Links](https://github.com/snakers4/open_tts/#links)
+    - [Download-instructions](https://github.com/snakers4/open_tts/#download-instructions)
+    - [End-to-end download scripts](https://github.com/snakers4/open_tts/#end-to-end-download-scripts)
+  - [Annotation methodology](https://github.com/snakers4/open_tts/#annotation-methodology)
+  - [Contacts](https://github.com/snakers4/open_tts/#contacts)
+  - [License](https://github.com/snakers4/open_tts/#license)
+  - [Donations](https://github.com/snakers4/open_tts/#donations)
 
 # **Updates**
 
@@ -38,13 +38,12 @@ Looking for collaborators)
 
 Meta data [file](https://ru-open-tts.ams3.digitaloceanspaces.com/public_tts_df_01.csv).
 
-
-| Voice                      | Utterances | Hours | GB  | Comment          | Link          | Md5sum                             |
-|----------------------------|------------|-------|-----|------------------|---------------|------------------------------------|
-| russian_middle_aged_male_1 | 45,311     | 64    | 9.7 | Rnnoise applied  | [link](https://ru-open-tts.ams3.digitaloceanspaces.com/russian_middle_aged_male_1.tar.gz)      | `f1157d6dfd07c302c23cfe7dcb0298f5` |
-| russian_middle_aged_male_2 | 46,684     | 38    | 6.0 | Rnnoise applied  | [link](https://ru-open-tts.ams3.digitaloceanspaces.com/russian_middle_aged_male_2.tar.gz)      | `059ab6b3e5fa77319f7bf20e594fc133` |
-| russian_young_male_1       |            |       |     |                  | [link]()      | TBC |
-| total                      |            |       |     |                  |               | TBC |
+| Voice                      | Clips  | Hours | GB  | Comment  | Link          | Md5sum                             |
+|----------------------------|--------|-------|-----|----------|---------------|------------------------------------|
+| russian_middle_aged_male_1 | 45,311 | 64    | 9.7 | Rnnoise  | [link](https://ru-open-tts.ams3.digitaloceanspaces.com/russian_middle_aged_male_1.tar.gz)      | `f1157d6dfd07c302c23cfe7dcb0298f5` |
+| russian_middle_aged_male_2 | 46,684 | 38    | 6.0 | Rnnoise  | [link](https://ru-open-tts.ams3.digitaloceanspaces.com/russian_middle_aged_male_2.tar.gz)      | `059ab6b3e5fa77319f7bf20e594fc133` |
+| russian_young_male_1       |        |       |     |          | [link]()      | TBC |
+| total                      |        |       |     |          |               | TBC |
 
 ## **Download instructions**
 
@@ -102,3 +101,4 @@ Dual license, cc-by-nc and commercial usage available after agreement with datas
 # **Donations**
 
 [Donate](https://buymeacoff.ee/8oneCIN) (each coffee pays for several full downloads) / use our DO referral [link](https://sohabr.net/habr/post/357748/) to help.
+
