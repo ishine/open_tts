@@ -1,3 +1,5 @@
+**Will be updated shortly. Stay tuned!**
+
 # **Russian Open Text To Speech (TTS) Dataset**
 
 Arguably the largest public Russian TTS dataset up to date:
