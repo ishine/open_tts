@@ -55,13 +55,13 @@ Let's make TTS/STT in Russian (and more) as open and available as CV models.
 
 | Voice                      | Clips  | Hours | GB  | Comment  | Links          | Md5sum                             |
 |----------------------------|--------|-------|-----|----------|---------------|------------------------------------|
-| 5% of radio + public_speech | 469797 | 665 | 66,7| | [link](https://ru-open-stt.ams3.cdn.digitaloceanspaces.com/radio_pspeech_sample_mp3.tar.gz), [manifest](https://ru-open-stt.ams3.cdn.digitaloceanspaces.com/radio_pspeech_sample_manifest.csv) | `84397631475426f505babbb73b4197d9` |
-| radio                   | 7,603,192| 10,430| 1,195 |      | [link](https://ru-open-stt.ams3.cdn.digitaloceanspaces.com/radio_v4_mp3.tar.gz), [manifest](https://ru-open-stt.ams3.cdn.digitaloceanspaces.com/radio_v4_manifest.csv), [labels](https://forms.gle/nosMaNgj8MWKm99d9) | `7c2273a5b8c3cc10df3754dbe9c783e1` |
-| public_speech              | 1,700,060| 2,709 | 301 |        | [link](https://ru-open-stt.ams3.cdn.digitaloceanspaces.com/public_speech_mp3.tar.gz), [manifest](https://ru-open-stt.ams3.cdn.digitaloceanspaces.com/public_speech_manifest.csv), [labels](https://forms.gle/nosMaNgj8MWKm99d9) | `d41f3f21d3cb9328de3cd6a530a70832` |
-| radio_add               |  92,679  |   157 | 18  |        | [link](https://ru-open-stt.ams3.cdn.digitaloceanspaces.com/radio_v4_add_mp3.tar.gz), [manifest](https://ru-open-stt.ams3.cdn.digitaloceanspaces.com/radio_v4_add_manifest.csv), [labels](https://forms.gle/nosMaNgj8MWKm99d9) | `ae00489678836b92e3a65d2ee8b51960` |
-| russian_middle_aged_male_1 | 45,311 | 64    | 9.7 | Rnnoise  | [link](https://ru-open-tts.ams3.digitaloceanspaces.com/russian_middle_aged_male_1.tar.gz)      | `f1157d6dfd07c302c23cfe7dcb0298f5` |
-| russian_middle_aged_male_2 | 46,684 | 38    | 6.0 | Rnnoise  | [link](https://ru-open-tts.ams3.digitaloceanspaces.com/russian_middle_aged_male_2.tar.gz)      | `059ab6b3e5fa77319f7bf20e594fc133` |
-| russian_young_male_1 (tts_2)     | 118,536 | 43    |  4.9   |          | [link](https://ru-open-tts.ams3.digitaloceanspaces.com/tts_2.tar.gz)      | `403c90662beb51ac9a39d64b879e0f1b` |
+| 5% of radio + public_speech | 469797 | 665 | 66,7| | [mp3+txt](https://ru-open-stt.ams3.cdn.digitaloceanspaces.com/radio_pspeech_sample_mp3.tar.gz), [manifest file](https://ru-open-stt.ams3.cdn.digitaloceanspaces.com/radio_pspeech_sample_manifest.csv) | `84397631475426f505babbb73b4197d9` |
+| radio                   | 7,603,192| 10,430| 1,195 |      | [mp3](https://ru-open-stt.ams3.cdn.digitaloceanspaces.com/radio_v4_mp3.tar.gz), [txt](https://forms.gle/nosMaNgj8MWKm99d9), [manifest file](https://ru-open-stt.ams3.cdn.digitaloceanspaces.com/radio_v4_manifest.csv),  | `7c2273a5b8c3cc10df3754dbe9c783e1` |
+| public_speech              | 1,700,060| 2,709 | 301 |        | [mp3](https://ru-open-stt.ams3.cdn.digitaloceanspaces.com/public_speech_mp3.tar.gz), [txt](https://forms.gle/nosMaNgj8MWKm99d9), [manifest file](https://ru-open-stt.ams3.cdn.digitaloceanspaces.com/public_speech_manifest.csv),  | `d41f3f21d3cb9328de3cd6a530a70832` |
+| radio_add               |  92,679  |   157 | 18  |        | [mp3](https://ru-open-stt.ams3.cdn.digitaloceanspaces.com/radio_v4_add_mp3.tar.gz), [txt](https://forms.gle/nosMaNgj8MWKm99d9), [manifest file](https://ru-open-stt.ams3.cdn.digitaloceanspaces.com/radio_v4_add_manifest.csv),  | `ae00489678836b92e3a65d2ee8b51960` |
+| russian_middle_aged_male_1 | 45,311 | 64    | 9.7 | Rnnoise  | [wav+txt](https://ru-open-tts.ams3.digitaloceanspaces.com/russian_middle_aged_male_1.tar.gz)      | `f1157d6dfd07c302c23cfe7dcb0298f5` |
+| russian_middle_aged_male_2 | 46,684 | 38    | 6.0 | Rnnoise  | [wav+txt](https://ru-open-tts.ams3.digitaloceanspaces.com/russian_middle_aged_male_2.tar.gz)      | `059ab6b3e5fa77319f7bf20e594fc133` |
+| russian_young_male_1 (tts_2)     | 118,536 | 43    |  4.9   |          | [wav+txt](https://ru-open-tts.ams3.digitaloceanspaces.com/tts_2.tar.gz)      | `403c90662beb51ac9a39d64b879e0f1b` |
 | total                      | 9,606,462 | 13,446 |  1,535 |          |               |  |
 
 ## **Download instructions**
